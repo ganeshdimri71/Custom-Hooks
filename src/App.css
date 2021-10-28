@@ -36,3 +36,27 @@
     transform: rotate(360deg);
   }
 }
+
+.consuming{
+  position: absolute;
+  top: 0;
+  background-color: black;
+  color: white;
+}
+
+.position1{
+  position: absolute;
+  top: 0;
+  right:0;
+   background-color: black;
+  color: white;
+  padding:40px;
+}
+.position2{
+  position: absolute;
+  top: 0;
+  right:50%;
+   background-color: black;
+  color: white;
+  padding:40px;
+}
